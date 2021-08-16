@@ -8,6 +8,6 @@ Clone this repository using ```git clone https://github.com/Stevanvincent/uptime
 
 Install depedency using ```npm install```
 
-Put your reporitory urls at ```urls.json```
+Put your reporitory urls at ```url.json```
 
 Run this repository using ```node .```
